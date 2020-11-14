@@ -1,2 +1,2 @@
 # billboard-large
-Bishkek billboard (Large size)
+Bishkek city billboard (Large size)
