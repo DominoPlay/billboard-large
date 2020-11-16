@@ -376,7 +376,7 @@ body {
 
 .banner__circle__content_large {
   font-size: 60px;
-  line-height: 60px;
+  line-height: 100%;
   letter-spacing: -3px;
   padding: 0 2px 0 0;
 }
