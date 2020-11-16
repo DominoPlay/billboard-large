@@ -365,7 +365,14 @@ body {
     padding: 0 2px 0 0;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
+        .banner__circle__content {
+        font-size: 44px;
+        font-weight: bold;
+        line-height: 35px;
+        position: relative;
+        z-index: 9;
+    }
     .banner__circle__content_large {
         font-size: 60px;
         font-weight: bold;
@@ -422,7 +429,7 @@ body {
     vertical-align: top;
     font-size: 40px;
     display: inline-block;
-    margin-left: 6rem;
+    margin-left: 50%;
     margin-top: -10px;
 }
 
@@ -430,7 +437,7 @@ body {
     vertical-align: top;
     font-size: 50px;
     display: inline-block;
-    margin-left: 10rem;
+    margin-left: 55%;
     margin-top: -5px;
 }
 
