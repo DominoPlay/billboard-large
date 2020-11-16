@@ -1978,6 +1978,7 @@ body.splat-toggle .splat {
     line-height: 45px !important;
   }
   .time_large {
+    font-size: 80px !important;
     line-height: 60px !important;
   }
 }
