@@ -381,7 +381,7 @@ body {
   padding: 0 2px 0 0;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 600px) {
     .banner__circle__content_large {
         font-size: 60px;
         font-weight: bold;
@@ -1963,6 +1963,14 @@ body.splat-toggle .splat {
 #clock .time_large {
   font-size: 80px;
   line-height: 70px;
+}
+
+@media only screen and (max-width: 600px) {
+    .time_large {
+        letter-spacing: 0.05em;
+        font-size: 80px;
+        line-height: 70px;
+    }
 }
 
 .new-year {
